@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(175, 175, 175);
+}
+
+#categories {
+    color: rgb(0, 0, 0);
+    float: left;
+    width: 20%;
+    padding: 20px;
+    border-right: 1px solid #833b3b;
+}
+
+#products {
+    float: left;
+    width: 40%;
+    padding: 20px;
+    border-right: 1px solid #753a3a;
+}
+
+#details {
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+
+.product {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
